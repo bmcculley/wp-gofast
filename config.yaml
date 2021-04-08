@@ -1,0 +1,4 @@
+revProxURL: http://127.0.0.1:7070
+listenHostPort: :8080
+sockAddress: /run/php/php7.4-fpm.sock
+phpFsPath: /home/bmc/goFast/wordpress
